@@ -1,0 +1,19 @@
+
+body{
+    margin: 50px;
+    background-color: rgb(245, 245, 245);
+}
+li{
+    display: inline-block;
+    flex-wrap: wrap;
+    background-color: rgb(224, 224, 224);
+    font-size: 3em;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.Hearts,.Diamonds{
+    color: rgb(149, 0, 0);
+}
+.Clubs,.Spades{
+    color: black;
+}
