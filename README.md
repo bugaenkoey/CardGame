@@ -1,3 +1,6 @@
+https://github.com/bugaenkoey/CardGame/blob/master/index.html
+https://raw.githack.com/bugaenkoey/CardGame/master/index.html
+______________________________________________
 Создать html-страницу “Card game”.
 Для отображения мастей карт используйте спецсимволы.
 -------------
